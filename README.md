@@ -1,4 +1,4 @@
-#Basic To-do List Application using svelte.js
+# Basic To-do List Application using svelte.js
 
 ## Prerequisites
 
